@@ -182,6 +182,7 @@ github.com/golang/mock v1.3.1/go.mod h1:sBzyDLLjw3U8JLTeZvSv8jJB+tU5PVekmnlKIyFU
 github.com/golang/mock v1.4.0/go.mod h1:UOMv5ysSaYNkG+OFQykRIcU/QvvxJf3p21QfJ2Bt3cw=
 github.com/golang/mock v1.4.1/go.mod h1:UOMv5ysSaYNkG+OFQykRIcU/QvvxJf3p21QfJ2Bt3cw=
 github.com/golang/mock v1.4.3/go.mod h1:UOMv5ysSaYNkG+OFQykRIcU/QvvxJf3p21QfJ2Bt3cw=
+github.com/golang/mock v1.4.4 h1:l75CXGRSwbaYNpl/Z2X1XIIAMSCquvXgpVZDhwEIJsc=
 github.com/golang/mock v1.4.4/go.mod h1:l3mdAwkq5BuhzHwde/uurv3sEJeZMXNpwsxVWU71h+4=
 github.com/golang/mock v1.5.0/go.mod h1:CWnOUgYIOo4TcNZ0wHX3YZCqsaM1I1Jvs6v3mP3KVu8=
 github.com/golang/mock v1.6.0 h1:ErTB+efbowRARo13NNdxyJji2egdxLGQhRaY+DUumQc=
@@ -219,6 +220,7 @@ github.com/google/go-cmp v0.5.1/go.mod h1:v8dTdLbMG2kIc/vJvl+f65V22dbkXbowE6jgT/
 github.com/google/go-cmp v0.5.2/go.mod h1:v8dTdLbMG2kIc/vJvl+f65V22dbkXbowE6jgT/gNBxE=
 github.com/google/go-cmp v0.5.3/go.mod h1:v8dTdLbMG2kIc/vJvl+f65V22dbkXbowE6jgT/gNBxE=
 github.com/google/go-cmp v0.5.4/go.mod h1:v8dTdLbMG2kIc/vJvl+f65V22dbkXbowE6jgT/gNBxE=
+github.com/google/go-cmp v0.5.5 h1:Khx7svrCpmxxtHBq5j2mp/xVjsi8hQMfNLvJFAlrGgU=
 github.com/google/go-cmp v0.5.5/go.mod h1:v8dTdLbMG2kIc/vJvl+f65V22dbkXbowE6jgT/gNBxE=
 github.com/google/go-cmp v0.5.6 h1:BKbKCqvP6I+rmFHt06ZmyQtvB8xAkWdhFyr0ZUNZcxQ=
 github.com/google/go-cmp v0.5.6/go.mod h1:v8dTdLbMG2kIc/vJvl+f65V22dbkXbowE6jgT/gNBxE=
@@ -253,9 +255,8 @@ github.com/googleapis/gax-go/v2 v2.0.4/go.mod h1:0Wqv26UfaUD9n4G6kQubkQ+KchISgw+
 github.com/googleapis/gax-go/v2 v2.0.5/go.mod h1:DWXyrwAJ9X0FpwwEdw+IPEYBICEFu5mhpdKc/us6bOk=
 github.com/googleapis/gax-go/v2 v2.1.0/go.mod h1:Q3nei7sK6ybPYH7twZdmQpAd1MKb7pfu6SK+H1/DsU0=
 github.com/googleapis/gax-go/v2 v2.1.1/go.mod h1:hddJymUZASv3XPyGkUpKj8pPO47Rmb0eJc8R6ouapiM=
+github.com/gorilla/mux v1.7.3 h1:gnP5JzjVOuiZD07fKKToCAOjS0yOpj/qPETTXCCS6hw=
 github.com/gorilla/mux v1.7.3/go.mod h1:1lud6UwP+6orDFRuTfBEV8e9/aOM/c4fVVCaMa2zaAs=
-github.com/gorilla/mux v1.8.0 h1:i40aqfkR1h2SlN9hojwV5ZA91wcXFOvkdNIeFDP5koI=
-github.com/gorilla/mux v1.8.0/go.mod h1:DVbg23sWSpFRCP0SfiEN6jmj59UnW/n46BH5rLB71So=
 github.com/gorilla/securecookie v1.1.1 h1:miw7JPhV+b/lAHSXz4qd/nN9jRiAFV5FwjeKyCS8BvQ=
 github.com/gorilla/securecookie v1.1.1/go.mod h1:ra0sb63/xPlUeL+yeDciTfxMRAA+MP+HVt/4epWDjd4=
 github.com/gorilla/sessions v1.2.1 h1:DHd3rPN5lE3Ts3D8rKkQ8x/0kqfeNmBAaiSi+o7FsgI=
@@ -326,7 +327,6 @@ github.com/hyperledger/aries-framework-go/component/storageutil v0.0.0-202202171
 github.com/hyperledger/aries-framework-go/component/storageutil v0.0.0-20220308060532-714cd5c18552/go.mod h1:yLgRpVlZ2heeeOpTgvEnG/yHL9q1keUu5ILQ6s2qpLU=
 github.com/hyperledger/aries-framework-go/component/storageutil v0.0.0-20220322085443-50e8f9bd208b/go.mod h1:yLgRpVlZ2heeeOpTgvEnG/yHL9q1keUu5ILQ6s2qpLU=
 github.com/hyperledger/aries-framework-go/component/storageutil v0.0.0-20220324201531-18c87667df19/go.mod h1:ryG46jQRvQUUH/0wjORghfJnxJVH1yIXIsAv1GXIWp8=
-github.com/hyperledger/aries-framework-go/component/storageutil v0.0.0-20220330133350-1c2d9d65aea4/go.mod h1:ryG46jQRvQUUH/0wjORghfJnxJVH1yIXIsAv1GXIWp8=
 github.com/hyperledger/aries-framework-go/component/storageutil v0.0.0-20220614152730-3d817acfa48b h1:At8vtTVmmmiyntp09HRPeFHXCZlvgP6ZcH5MaxeeG7I=
 github.com/hyperledger/aries-framework-go/component/storageutil v0.0.0-20220614152730-3d817acfa48b/go.mod h1:ryG46jQRvQUUH/0wjORghfJnxJVH1yIXIsAv1GXIWp8=
 github.com/hyperledger/aries-framework-go/spi v0.0.0-20210320144851-40976de98ccf/go.mod h1:fDr9wW00GJJl1lR1SFHmJW8utIocdvjO5RNhAYS05EY=
@@ -348,7 +348,6 @@ github.com/hyperledger/aries-framework-go/spi v0.0.0-20220217153004-1622c70e5767
 github.com/hyperledger/aries-framework-go/spi v0.0.0-20220308060532-714cd5c18552/go.mod h1:4bD5c5fj5K7rkQurVa/8I8+TfNcI4bxIBzaUNcxTOTg=
 github.com/hyperledger/aries-framework-go/spi v0.0.0-20220322085443-50e8f9bd208b/go.mod h1:4bD5c5fj5K7rkQurVa/8I8+TfNcI4bxIBzaUNcxTOTg=
 github.com/hyperledger/aries-framework-go/spi v0.0.0-20220324201531-18c87667df19/go.mod h1:4bD5c5fj5K7rkQurVa/8I8+TfNcI4bxIBzaUNcxTOTg=
-github.com/hyperledger/aries-framework-go/spi v0.0.0-20220330133350-1c2d9d65aea4/go.mod h1:4bD5c5fj5K7rkQurVa/8I8+TfNcI4bxIBzaUNcxTOTg=
 github.com/hyperledger/aries-framework-go/spi v0.0.0-20220606124520-53422361c38c/go.mod h1:4bD5c5fj5K7rkQurVa/8I8+TfNcI4bxIBzaUNcxTOTg=
 github.com/hyperledger/aries-framework-go/spi v0.0.0-20220614152730-3d817acfa48b h1:wSUDDrB87VuaxOmyb0CmA3wB8vvgZ3p9Te4Dnsi6NXs=
 github.com/hyperledger/aries-framework-go/spi v0.0.0-20220614152730-3d817acfa48b/go.mod h1:4bD5c5fj5K7rkQurVa/8I8+TfNcI4bxIBzaUNcxTOTg=
@@ -521,8 +520,6 @@ github.com/spf13/cobra v1.3.0/go.mod h1:BrRVncBjOJa/eUcVVm9CE+oC6as8k+VYr4NY7WCi
 github.com/spf13/jwalterweatherman v1.1.0/go.mod h1:aNWZUN0dPAAO/Ljvb5BEdw96iTZ0EXowPYD95IqWIGo=
 github.com/spf13/pflag v1.0.5/go.mod h1:McXfInJRrz4CZXVZOBLb0bTZqETkiAhM9Iw0y3An2Bg=
 github.com/spf13/viper v1.10.0/go.mod h1:SoyBPwAtKDzypXNDFKN5kzH7ppppbGZtls1UpIy5AsM=
-github.com/square/go-jose v2.4.1+incompatible h1:KFYc54wTtgnd3x4B/Y7Zr1s/QaEx2BNzRsB3Hae5LHo=
-github.com/square/go-jose v2.4.1+incompatible/go.mod h1:7MxpAF/1WTVUu8Am+T5kNy+t0902CaLWM4Z745MkOa8=
 github.com/square/go-jose/v3 v3.0.0-20200630053402-0a67ce9b0693 h1:wD1IWQwAhdWclCwaf6DdzgCAe9Bfz1M+4AHRd7N786Y=
 github.com/square/go-jose/v3 v3.0.0-20200630053402-0a67ce9b0693/go.mod h1:6hSY48PjDm4UObWmGLyJE9DxYVKTgR9kbCspXXJEhcU=
 github.com/stretchr/objx v0.1.0/go.mod h1:HFkY916IF+rwdDfMAkV7OtwuqBVzrE8GR6GFx+wExME=
@@ -555,8 +552,6 @@ github.com/tidwall/sjson v1.1.4 h1:bTSsPLdAYF5QNLSwYsKfBKKTnlGbIuhqL3CpRsjzGhg=
 github.com/tidwall/sjson v1.1.4/go.mod h1:wXpKXu8CtDjKAZ+3DrKY5ROCorDFahq8l0tey/Lx1fg=
 github.com/trustbloc/edge-core v0.1.8 h1:m4X5XNDwiHJjGf8gHnpo6aLkBYuqDyNRq+npjxLc5cY=
 github.com/trustbloc/edge-core v0.1.8/go.mod h1:gfoyG/xquRXyHkww0ldM2jwOTuKKZpHYn+87f+TBQ8M=
-github.com/trustbloc/edv v0.1.8 h1:0kD73Ni/9CdahanWtkPxmEYZN3G4I+ea5LLay7FGhZY=
-github.com/trustbloc/edv v0.1.8/go.mod h1:jK3Gj7/06qZ12LlE/rsD2/Uu3fwOVKsouT8fMlwRWoA=
 github.com/tv42/httpunix v0.0.0-20150427012821-b75d8614f926/go.mod h1:9ESjWnEqriFuLhtthL60Sar/7RFoluCcXsuvEwTV5KM=
 github.com/xeipuuv/gojsonpointer v0.0.0-20180127040702-4e3ac2762d5f/go.mod h1:N2zxlSyiKSe5eX1tZViRH5QA0qijqEDrYZiPEAiq3wU=
 github.com/xeipuuv/gojsonpointer v0.0.0-20190905194746-02993c407bfb h1:zGWFAtiMcyryUHoUjUJX0/lt1H2+i2Ka2n+D3DImSNo=
